@@ -70,8 +70,8 @@
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-11" value="源域无效观测：平方距离加惩戒常量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DfU1bm9ttxrjoPcl1H-8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-12" value="双边有效观测：计算标准化特征平方距离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="475" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
