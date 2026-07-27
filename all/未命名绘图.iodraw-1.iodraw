@@ -33,6 +33,12 @@
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-5" value="判断源域云掩码状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="230" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
