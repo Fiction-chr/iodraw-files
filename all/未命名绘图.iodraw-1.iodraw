@@ -39,9 +39,15 @@
             <mxPoint x="535" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfU1bm9ttxrjoPcl1H-8-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfU1bm9ttxrjoPcl1H-8-6">
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-7" value="源域云掩码=1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfU1bm9ttxrjoPcl1H-8-6">
           <mxGeometry x="-0.139" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
