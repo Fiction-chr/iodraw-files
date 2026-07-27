@@ -81,13 +81,13 @@
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-13" value="目标域无效观测：转移代价置为零" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DfU1bm9ttxrjoPcl1H-8-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DfU1bm9ttxrjoPcl1H-8-12">
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="490" as="sourcePoint" />
-            <mxPoint x="400" y="500" as="targetPoint" />
+            <mxPoint x="535" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="535" y="460" />
-              <mxPoint x="400" y="460" />
+              <mxPoint x="535" y="450" />
+              <mxPoint x="400" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -107,7 +107,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-18" value="设置Sakoe-Chiba动态时间窗口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="460" as="sourcePoint" />
+            <mxPoint x="650" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
