@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-10" value="源域云掩码=0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfU1bm9ttxrjoPcl1H-8-9">
           <mxGeometry x="0.5113" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-11" value="源域无效观测：平方距离加惩戒常量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -80,6 +80,12 @@
         </mxCell>
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-13" value="目标域无效观测：转移代价置为零" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="490" as="sourcePoint" />
+            <mxPoint x="620" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
