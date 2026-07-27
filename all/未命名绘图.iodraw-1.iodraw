@@ -106,8 +106,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfU1bm9ttxrjoPcl1H-8-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-18" value="设置Sakoe-Chiba动态时间窗口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
