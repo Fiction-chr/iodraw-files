@@ -56,10 +56,15 @@
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DfU1bm9ttxrjoPcl1H-8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="300" as="sourcePoint" />
-            <mxPoint x="400" y="320" as="targetPoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-10" value="源域云掩码=0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfU1bm9ttxrjoPcl1H-8-9">
+          <mxGeometry x="0.5113" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
