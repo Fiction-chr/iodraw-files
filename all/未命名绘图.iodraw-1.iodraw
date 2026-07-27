@@ -16,12 +16,12 @@
         <mxCell id="DfU1bm9ttxrjoPcl1H-8-2" value="判断目标云掩码状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="120" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DfU1bm9ttxrjoPcl1H-8-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DfU1bm9ttxrjoPcl1H-8-2">
+        <mxCell id="DfU1bm9ttxrjoPcl1H-8-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DfU1bm9ttxrjoPcl1H-8-2" target="DfU1bm9ttxrjoPcl1H-8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="160" />
+              <mxPoint x="540" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
