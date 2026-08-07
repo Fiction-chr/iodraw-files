@@ -55,7 +55,7 @@
         <mxCell id="nTdApjDA7o-leCHR4Smg-17" value="数&lt;div&gt;&lt;br&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;增&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;强&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="20" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="nTdApjDA7o-leCHR4Smg-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nTdApjDA7o-leCHR4Smg-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nTdApjDA7o-leCHR4Smg-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="nTdApjDA7o-leCHR4Smg-18">
