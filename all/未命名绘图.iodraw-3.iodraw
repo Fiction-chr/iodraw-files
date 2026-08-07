@@ -52,7 +52,7 @@
         <mxCell id="nTdApjDA7o-leCHR4Smg-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nTdApjDA7o-leCHR4Smg-17" value="数&lt;div&gt;&lt;br&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;增&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;强&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nTdApjDA7o-leCHR4Smg-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="20" height="330" as="geometry" />
         </mxCell>
         <mxCell id="nTdApjDA7o-leCHR4Smg-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -158,7 +158,7 @@
           <mxGeometry x="210" y="360" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nTdApjDA7o-leCHR4Smg-83" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="20" height="30" as="geometry" />
+          <mxGeometry x="110" y="270" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
