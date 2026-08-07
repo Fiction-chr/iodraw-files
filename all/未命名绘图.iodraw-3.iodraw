@@ -117,17 +117,17 @@
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTdApjDA7o-leCHR4Smg-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nTdApjDA7o-leCHR4Smg-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;perimeterSpacing=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="13" height="13" as="geometry">
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTdApjDA7o-leCHR4Smg-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nTdApjDA7o-leCHR4Smg-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;perimeterSpacing=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="163" width="13" height="14" as="geometry">
             <mxRectangle width="13" height="14" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTdApjDA7o-leCHR4Smg-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nTdApjDA7o-leCHR4Smg-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;perimeterSpacing=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="177" width="13" height="13" as="geometry">
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
