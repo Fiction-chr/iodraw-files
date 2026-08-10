@@ -1262,7 +1262,7 @@
           <mxGeometry x="935.5" y="343.31" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-171" value="log(clamp(q,min=10&lt;sup&gt;-6&lt;/sup&gt;))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1116.5" y="342.07000000000005" width="122" height="30" as="geometry" />
+          <mxGeometry x="1116.5" y="343.31000000000006" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-172" value="+" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1083" y="429.31000000000006" width="30" height="30" as="geometry" />
