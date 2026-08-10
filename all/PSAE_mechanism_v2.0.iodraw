@@ -1037,7 +1037,7 @@
           <mxGeometry x="910" y="397.13" width="83" height="35.75" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-171" value="log(clamp(q,min=10&lt;sup&gt;-6&lt;/sup&gt;))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="409.22" width="122" height="32.5" as="geometry" />
+          <mxGeometry x="1102" y="391.11" width="122" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-172" value="+" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1078" y="486" width="30" height="30" as="geometry" />
@@ -1348,12 +1348,12 @@
             <mxPoint x="1084" y="414.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="435.3" as="sourcePoint" />
-            <mxPoint x="1101" y="435.47" as="targetPoint" />
+            <mxPoint x="1090" y="460" as="sourcePoint" />
+            <mxPoint x="1118" y="472.56000000000006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1093" y="435.47" />
+              <mxPoint x="1110" y="472.56000000000006" />
             </Array>
           </mxGeometry>
         </mxCell>
