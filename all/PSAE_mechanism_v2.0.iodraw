@@ -107,10 +107,10 @@
           <mxGeometry x="167.5" y="950" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="v36" value="center pixel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#B71C1C;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="45" y="468" width="170" height="28" as="geometry" />
+          <mxGeometry x="32.5" y="434" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="v37" value="10 spectral bands&lt;br&gt;B2,B3,B4,B5,B6,B7,B8,B8A,B11,B12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#111111;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="38" y="505" width="182" height="80" as="geometry" />
+          <mxGeometry x="32.5" y="461" width="182" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v38" value="Flatten 25 pixels into a pixel set" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#111111;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="282" y="180" width="245" height="50" as="geometry" />
