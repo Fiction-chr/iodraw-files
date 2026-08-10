@@ -1139,7 +1139,7 @@
           <mxGeometry x="1143" y="159.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-173" value="Softmax&lt;br style=&quot;font-size: 11px;&quot;&gt;A: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1359" y="139" width="58" height="72" as="geometry" />
+          <mxGeometry x="1265" y="139" width="58" height="72" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-174" value="Σ" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1311" y="282" width="34" height="34" as="geometry" />
@@ -1185,12 +1185,6 @@
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#333333;strokeWidth=1.5;fontSize=11;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-172" target="UYYb-bv9wdLKh2wHNotc-173">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#333333;strokeWidth=1.5;fontSize=11;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1359" y="184.25" as="sourcePoint" />
-            <mxPoint x="1328" y="291.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#9673A6;strokeWidth=1.5;fontSize=11;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-167" target="UYYb-bv9wdLKh2wHNotc-174">
           <mxGeometry relative="1" as="geometry" />
