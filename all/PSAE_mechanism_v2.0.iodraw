@@ -1075,8 +1075,11 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-170" target="UYYb-bv9wdLKh2wHNotc-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-169" target="UYYb-bv9wdLKh2wHNotc-171">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UYYb-bv9wdLKh2wHNotc-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1098" y="503.75" as="sourcePoint" />
+            <mxPoint x="1153" y="466.21000000000004" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;" edge="1" parent="1" target="UYYb-bv9wdLKh2wHNotc-172">
           <mxGeometry relative="1" as="geometry">
