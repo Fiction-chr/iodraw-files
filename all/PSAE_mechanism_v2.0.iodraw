@@ -1001,7 +1001,7 @@
           <mxGeometry x="490" y="105" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-80" value="1×1  (single-token case)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#2E7D32;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="729" y="150" width="190" height="30" as="geometry" />
+          <mxGeometry x="730.5" y="160" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-81" value="h_c&lt;br&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="747" y="188.75" width="45" height="30" as="geometry" />
