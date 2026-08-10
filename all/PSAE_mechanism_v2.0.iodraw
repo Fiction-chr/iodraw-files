@@ -1036,9 +1036,6 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-169" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="351.12" width="83" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-170" value="[h_c, token_j,&lt;br style=&quot;font-size: 11px;&quot;&gt;|h_c − token_j|]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="737" y="355" width="83" height="33.75" as="geometry" />
-        </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-171" value="log(clamp(q,min=10&lt;sup&gt;-6&lt;/sup&gt;))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1018" y="323.75" width="132" height="32.5" as="geometry" />
         </mxCell>
@@ -1347,8 +1344,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-238" value="C&lt;sub&gt;0&amp;nbsp;&lt;/sub&gt;* H * W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="233.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="661" y="351.12" width="83" height="41.5" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;[h_c, token_j,&lt;/span&gt;&lt;br style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;|h_c − token_j|]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="640.5" y="340" width="83" height="52.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
