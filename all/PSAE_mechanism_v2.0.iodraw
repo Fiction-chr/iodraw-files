@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="851" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,16 +1001,16 @@
           <mxGeometry x="490" y="105" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-80" value="1×1  (single-token case)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#2E7D32;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="873" y="160" width="190" height="30" as="geometry" />
+          <mxGeometry x="729" y="150" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-81" value="h_c&lt;br&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="748.5" y="203.5" width="45" height="30" as="geometry" />
+          <mxGeometry x="747" y="188.75" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-82" value="V₁&lt;br&gt;64 → 64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="838" y="200.5" width="63" height="36" as="geometry" />
+          <mxGeometry x="836.5" y="185.75" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-83" value="c₁ ∈ R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="200" width="80" height="36" as="geometry" />
+          <mxGeometry x="938.5" y="185.25" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=1.5;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-81" target="UYYb-bv9wdLKh2wHNotc-82">
           <mxGeometry relative="1" as="geometry" />
@@ -1019,7 +1019,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-86" value="Single-token: Softmax = 1&lt;br&gt;therefore c₁ = V₁(h_c)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5FFF2;strokeColor=#82B366;strokeWidth=1.4;fontSize=12;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="194.75" width="190" height="47.5" as="geometry" />
+          <mxGeometry x="1048.5" y="180" width="190" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-203" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="543" y="400" width="120" height="120" as="geometry" />
