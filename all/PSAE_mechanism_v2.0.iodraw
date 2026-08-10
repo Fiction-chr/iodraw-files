@@ -29,7 +29,7 @@
           <mxGeometry x="2305" y="100" width="175" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="v10" value="5×5 patch, 10 bands" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#111111;fontStyle=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="45" y="180" width="170" height="50" as="geometry" />
+          <mxGeometry x="20" y="150" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v11" value="" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="67.5" y="850" width="25" height="25" as="geometry" />
@@ -718,8 +718,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-29" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="275" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-30" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="312" width="30" height="30" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-31" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
