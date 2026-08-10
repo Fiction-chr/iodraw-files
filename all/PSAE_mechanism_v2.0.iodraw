@@ -1348,7 +1348,7 @@
           <mxGeometry x="80" y="233.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="808" y="328.62" width="83" height="41.5" as="geometry" />
+          <mxGeometry x="661" y="351.12" width="83" height="41.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
