@@ -1329,8 +1329,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#222222;strokeWidth=1.5;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-234" target="UYYb-bv9wdLKh2wHNotc-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-238" value="C&lt;sub&gt;0&lt;/sub&gt;*H*W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="70" height="30" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-238" value="C&lt;sub&gt;0&amp;nbsp;&lt;/sub&gt;* H * W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
