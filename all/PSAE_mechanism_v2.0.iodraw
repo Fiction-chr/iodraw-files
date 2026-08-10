@@ -1127,13 +1127,13 @@
           <mxGeometry x="1053" y="132.5" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-169" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="209.5" width="115" height="72" as="geometry" />
+          <mxGeometry x="1078" y="238.5" width="83" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-170" value="[h_c, token_j,&lt;br style=&quot;font-size: 11px;&quot;&gt;|h_c − token_j|]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1232" y="262.5" width="135" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-171" value="log(q + ε)&lt;br style=&quot;font-size: 11px;&quot;&gt;1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1258" y="209.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1183" y="179" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-172" value="+" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1143" y="142.75" width="30" height="30" as="geometry" />
