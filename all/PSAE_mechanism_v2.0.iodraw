@@ -1019,7 +1019,7 @@
           <mxGeometry x="993" y="406.22" width="50" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-169" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="496" width="83" height="41.5" as="geometry" />
+          <mxGeometry x="901" y="351.12" width="83" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-170" value="[h_c, token_j,&lt;br style=&quot;font-size: 11px;&quot;&gt;|h_c − token_j|]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="737" y="355" width="83" height="33.75" as="geometry" />
@@ -1226,7 +1226,7 @@
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;entryX=0.993;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UYYb-bv9wdLKh2wHNotc-169">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="523" as="sourcePoint" />
+            <mxPoint x="820" y="372" as="sourcePoint" />
             <mxPoint x="1132.48" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
