@@ -854,10 +854,10 @@
           <mxGeometry x="543" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-157" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1550" y="200" width="750" height="1040" as="geometry" />
+          <mxGeometry x="1555" y="60" width="750" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-158" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-157">
-          <mxGeometry x="20" y="50" width="700" height="855" as="geometry" />
+          <mxGeometry x="25" y="60" width="700" height="855" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-78" value="h_c: center token (R⁶⁴)     d = 16     q_j: per-token quality weight     ε = 10⁻⁶" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#111111;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-158">
           <mxGeometry x="25" width="650" height="35" as="geometry" />
