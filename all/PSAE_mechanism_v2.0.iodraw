@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="499" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,7 +1345,7 @@
           <mxGeometry x="80" y="233.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Concat:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;[h_c, token_j,&lt;/span&gt;&lt;br style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;|h_c − token_j|]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="345" width="83" height="52.62" as="geometry" />
+          <mxGeometry x="737" y="377.38" width="83" height="52.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
