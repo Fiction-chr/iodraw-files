@@ -25,9 +25,6 @@
         <mxCell id="v8" value="6  Context projection &amp; fusion" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#888888;strokeWidth=1.2;dashed=1;dashPattern=5 4;spacingTop=12;fontSize=17;fontStyle=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2228" y="1430" width="330" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="v9" value="7  Output" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#888888;strokeWidth=1.2;dashed=1;dashPattern=5 4;spacingTop=12;fontSize=17;fontStyle=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2305" y="100" width="175" height="1040" as="geometry" />
-        </mxCell>
         <mxCell id="v10" value="5×5 patch, 10 bands" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#111111;fontStyle=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20" y="150" width="170" height="50" as="geometry" />
         </mxCell>
@@ -752,7 +749,7 @@
           <mxGeometry x="588" y="200" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-157" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1648" y="170" width="750" height="1040" as="geometry" />
+          <mxGeometry x="2080" y="65" width="750" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-158" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-157">
           <mxGeometry x="25" y="60" width="700" height="855" as="geometry" />
