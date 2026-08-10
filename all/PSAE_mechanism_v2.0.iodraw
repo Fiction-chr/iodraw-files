@@ -1344,8 +1344,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-238" value="C&lt;sub&gt;0&amp;nbsp;&lt;/sub&gt;* H * W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="233.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Concat:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;[h_c, token_j,&lt;/span&gt;&lt;br style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;|h_c − token_j|]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="377.38" width="153" height="52.62" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-243" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Concat:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;[h_c, token_j,&lt;/span&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-weight: 400;&quot;&gt;|h_c − token_j|]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="400" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
