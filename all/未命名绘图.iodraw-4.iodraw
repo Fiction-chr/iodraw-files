@@ -433,6 +433,15 @@
         <mxCell id="pkRmgvFiADoAE61vskIn-49" value="MLP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="187.5" y="720" width="27.5" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="vPFSLAqIfMOyxcRQfZou-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="740" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vPFSLAqIfMOyxcRQfZou-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="795" as="sourcePoint" />
+            <mxPoint x="435" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
