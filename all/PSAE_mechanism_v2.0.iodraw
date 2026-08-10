@@ -1127,7 +1127,7 @@
           <mxGeometry x="1053" y="132.5" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-169" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;q: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1098" y="223.75" width="83" height="41.5" as="geometry" />
+          <mxGeometry x="1098" y="238.5" width="83" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-170" value="[h_c, token_j,&lt;br style=&quot;font-size: 11px;&quot;&gt;|h_c − token_j|]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1220" y="257.5" width="83" height="33.75" as="geometry" />
@@ -1196,7 +1196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-192" value="c₅ = A·V = Σⱼ αⱼ Vⱼ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1232" y="322.5" width="210" height="30" as="geometry" />
+          <mxGeometry x="1233" y="325" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
