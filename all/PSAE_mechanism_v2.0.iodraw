@@ -1353,7 +1353,7 @@
           <mxGeometry x="744.5" y="502" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-192" value="c₅ = A·V = Σⱼ αⱼ Vⱼ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1068" y="507.3100000000001" width="210" height="30" as="geometry" />
+          <mxGeometry x="1116.5" y="509.65" width="102" height="12.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
