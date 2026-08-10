@@ -1099,7 +1099,7 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-159" value="5×5  (25 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="777" y="74.5" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-160" value="h_c&lt;br&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-160" value="h_c&lt;br style=&quot;font-size: 10px;&quot;&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=10;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="782" y="136.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-161" value="Q&lt;br&gt;64→16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
