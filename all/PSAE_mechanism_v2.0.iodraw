@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="919" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="212" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1453,7 +1453,7 @@
           <mxGeometry x="700" y="420" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-160" value="h_c&lt;br style=&quot;font-size: 11px;&quot;&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="475.0300000000001" width="45" height="32" as="geometry" />
+          <mxGeometry x="712.5" y="471.5000000000001" width="45" height="32" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-161" value="Q&lt;br style=&quot;font-size: 11px;&quot;&gt;64→16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="814.5" y="476.0300000000001" width="45" height="30" as="geometry" />
