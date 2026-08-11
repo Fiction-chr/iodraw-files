@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="147" dy="113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="441" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1367,8 +1367,7 @@
             <mxPoint x="354.50000000000364" y="106.50000000000006" as="sourcePoint" />
             <mxPoint x="374" y="96.44333333333333" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="355" y="96" />
-              <mxPoint x="374" y="96" />
+              <mxPoint x="374" y="106" />
             </Array>
           </mxGeometry>
         </mxCell>
