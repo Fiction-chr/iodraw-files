@@ -1404,8 +1404,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-76" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="432.92" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5&amp;nbsp;&lt;div&gt;(25 tokens)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530.5" y="392.92" width="90" height="30" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530.5" y="400" width="90" height="22.92" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-403" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="491.5" y="120.00000000000003" width="170" height="90" as="geometry" />
