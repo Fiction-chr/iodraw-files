@@ -1164,9 +1164,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-315" value="5×5  (25 tokens)" style="text;html=1;strokeColor=#FFFFFF;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="740" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-316" value="c₅ = A·V = Σⱼ αⱼ Vⱼ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1126.5" y="749.65" width="102" height="12.69" as="geometry" />
         </mxCell>
