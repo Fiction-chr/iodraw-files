@@ -1594,8 +1594,8 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-415">
           <mxGeometry x="40" y="10" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-416" value="&lt;br&gt;Same quality-aware attention as 5×5, with N=9&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
-          <mxGeometry x="693" y="470.81" width="488.5" height="49.19" as="geometry" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-416" value="&lt;br&gt;Same quality-aware attention as 5×5, with N=25&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="694" y="470.81" width="488.5" height="49.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
