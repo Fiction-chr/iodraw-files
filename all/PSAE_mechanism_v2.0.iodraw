@@ -1529,7 +1529,7 @@
           <mxGeometry x="512" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5&amp;nbsp;&lt;div&gt;(25 tokens)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="526" y="402.18000000000006" width="92" height="30" as="geometry" />
+          <mxGeometry x="530" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-392" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;container=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="240" width="170" height="140" as="geometry" />
