@@ -1574,7 +1574,7 @@
           <mxGeometry x="537.5" y="289.9999999999999" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-351" value="3×3&lt;div&gt;&amp;nbsp;(9 tokens)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="515" y="252" width="120" height="28" as="geometry" />
+          <mxGeometry x="516" y="252" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
