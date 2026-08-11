@@ -1518,10 +1518,10 @@
           <mxGeometry x="1901" y="1410" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-338" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="83" y="705" width="35" height="35" as="geometry" />
+          <mxGeometry x="43" y="565" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-339" value="Learnable module" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#111111;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="128" y="700" width="102" height="45" as="geometry" />
+          <mxGeometry x="88" y="560" width="102" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-340" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="318" y="705" width="35" height="35" as="geometry" />
