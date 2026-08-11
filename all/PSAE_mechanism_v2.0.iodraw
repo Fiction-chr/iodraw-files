@@ -1499,7 +1499,7 @@
           <mxGeometry x="7.222222222222222" y="15" width="118.95424836601306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-397" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673A6;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="390" width="170" height="182.18" as="geometry" />
+          <mxGeometry x="486" y="390" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-52" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="602" y="530" width="30" height="30" as="geometry" />
