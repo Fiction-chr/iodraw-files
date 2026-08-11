@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="356" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="99" dy="76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1321,13 +1321,13 @@
           <mxGeometry x="324.5" y="94.06000000000006" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-293" value="Softmax&lt;br style=&quot;font-size: 11px;&quot;&gt;A: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry x="374" y="94.06000000000006" width="58" height="30" as="geometry" />
+          <mxGeometry x="374" y="85.00000000000006" width="58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-294" value="Σ" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
           <mxGeometry x="388" y="134.56000000000012" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-295" value="c₅&lt;br style=&quot;font-size: 11px;&quot;&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry x="433.5" y="142.0000000000001" width="45" height="30" as="geometry" />
+          <mxGeometry x="432" y="134.56000000000012" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#6C8EBF;strokeWidth=1.5;fontSize=11;" edge="1" parent="UYYb-bv9wdLKh2wHNotc-332" source="UYYb-bv9wdLKh2wHNotc-281" target="UYYb-bv9wdLKh2wHNotc-282">
           <mxGeometry relative="1" as="geometry" />
