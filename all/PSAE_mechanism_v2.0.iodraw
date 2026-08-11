@@ -832,9 +832,6 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-173" value="Softmax&lt;br style=&quot;font-size: 11px;&quot;&gt;A: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1123.5" y="426.65000000000003" width="58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-328" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-174" target="UYYb-bv9wdLKh2wHNotc-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-174" value="Σ" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1138" y="472.50000000000006" width="30" height="30" as="geometry" />
         </mxCell>
@@ -1496,6 +1493,12 @@
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-325" value="3×3  (9 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="750" y="731.9999999999999" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#333333;strokeWidth=1.5;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UYYb-bv9wdLKh2wHNotc-174" target="UYYb-bv9wdLKh2wHNotc-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162" y="467" as="sourcePoint" />
+            <mxPoint x="1163" y="483" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
