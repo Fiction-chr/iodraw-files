@@ -1300,13 +1300,13 @@
           <mxGeometry x="114.5" y="94.06000000000006" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-286" value="K&lt;br style=&quot;font-size: 11px;&quot;&gt;9×d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry x="186" y="99.31000000000006" width="45" height="30" as="geometry" />
+          <mxGeometry x="186" y="94.06000000000006" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-287" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;64→64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
           <mxGeometry x="114.5" y="134.34000000000012" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-288" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;9×64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry x="185.5" y="142.0000000000001" width="45" height="30" as="geometry" />
+          <mxGeometry x="186" y="134.56000000000012" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-289" value="QKᵀ / √d&lt;br style=&quot;font-size: 11px;&quot;&gt;1×9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
           <mxGeometry x="250" y="94.06000000000006" width="50" height="40.5" as="geometry" />
