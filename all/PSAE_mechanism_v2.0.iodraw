@@ -1556,6 +1556,9 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-349" value="Addition" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1243" y="700" width="57" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5 (25 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
