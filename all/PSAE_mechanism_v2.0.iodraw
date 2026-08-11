@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="329" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,10 +641,10 @@
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="346" as="sourcePoint" />
-            <mxPoint x="240" y="346.45" as="targetPoint" />
+            <mxPoint x="192.5" y="339.77" as="sourcePoint" />
+            <mxPoint x="222.5" y="340.21999999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="346" />
+              <mxPoint x="192.5" y="339.77" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -687,7 +687,7 @@
           <mxGeometry x="80" y="233.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-252" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="176.75" width="30" height="345.5899999999999" as="geometry" />
+          <mxGeometry x="230" y="176.75" width="30" height="345.5899999999999" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-252">
           <mxGeometry y="280" width="30" height="30" as="geometry" />
