@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="1103" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="630" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1061,7 +1061,7 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-285" value="K&lt;br style=&quot;font-size: 11px;&quot;&gt;64→16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="874.5" y="669.3100000000001" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-286" value="K&lt;br style=&quot;font-size: 11px;&quot;&gt;25×d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-286" value="K&lt;br style=&quot;font-size: 11px;&quot;&gt;9×d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="955.5" y="669.3100000000001" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-287" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;64→64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
