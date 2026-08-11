@@ -1495,7 +1495,7 @@
           <mxGeometry x="89" y="775" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-325" value="3×3  (9 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="734.3399999999999" width="120" height="28" as="geometry" />
+          <mxGeometry x="760" y="741.9999999999999" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
