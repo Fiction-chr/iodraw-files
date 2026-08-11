@@ -1201,7 +1201,7 @@
           <mxGeometry x="201" y="489.87469135802473" width="34" height="33.58024691358025" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-220" value="×" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-318">
-          <mxGeometry x="303.5" y="582.716049382716" width="34" height="33.58024691358025" as="geometry" />
+          <mxGeometry x="305" y="409.996049382716" width="34" height="33.58024691358025" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-221" value="α₁·c₁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#111111;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-318">
           <mxGeometry x="79" y="523.4567901234568" width="75" height="24.691358024691358" as="geometry" />
