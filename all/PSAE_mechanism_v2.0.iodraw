@@ -1182,7 +1182,7 @@
           <mxGeometry x="255.5" y="88.81000000000006" width="50" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-290" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-412">
-          <mxGeometry x="191" y="13.309999999999945" width="83" height="30" as="geometry" />
+          <mxGeometry x="153.5" y="13.309999999999945" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-291" value="log(clamp(q,min=10&lt;sup&gt;-6&lt;/sup&gt;))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-412">
           <mxGeometry x="360" y="13.31000000000006" width="122" height="30" as="geometry" />
