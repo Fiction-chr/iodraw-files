@@ -1559,10 +1559,10 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-350" value="5×5 (25 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="510.5" y="380" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-351" value="3×3  (9 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-351" value="3×3&lt;div&gt;&amp;nbsp;(9 tokens)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="510.5" y="244.34" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-352" value="1×1  (center token)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#2E7D32;fontStyle=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-352" value="1×1&amp;nbsp;&lt;div&gt;&amp;nbsp;(center token)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#2E7D32;fontStyle=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="508" y="145" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
