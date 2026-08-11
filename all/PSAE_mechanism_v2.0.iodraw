@@ -1462,7 +1462,7 @@
           <mxGeometry x="886" y="472.50000000000006" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-163" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Scale tokens&lt;br style=&quot;font-size: 11px;&quot;&gt;25 tokens&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="535.3100000000001" width="68" height="35.5" as="geometry" />
+          <mxGeometry x="710" y="528.3100000000001" width="68" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-164" value="K&lt;br style=&quot;font-size: 11px;&quot;&gt;64→16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="814.5" y="513.3100000000001" width="45" height="30" as="geometry" />
@@ -1477,7 +1477,7 @@
           <mxGeometry x="886" y="554.56" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-168" value="QKᵀ / √d&lt;br style=&quot;font-size: 11px;&quot;&gt;1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="514.0600000000001" width="50" height="40.5" as="geometry" />
+          <mxGeometry x="952.5" y="508.06000000000006" width="50" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-169" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="885.5" y="433.31" width="83" height="30" as="geometry" />
@@ -1486,7 +1486,7 @@
           <mxGeometry x="1056.5" y="433.31000000000006" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-172" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;+&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="519.3100000000001" width="30" height="30" as="geometry" />
+          <mxGeometry x="1026.5" y="513.3100000000001" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-173" value="Softmax&lt;br style=&quot;font-size: 11px;&quot;&gt;A: 1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1073.5" y="516.6500000000001" width="58" height="30" as="geometry" />
