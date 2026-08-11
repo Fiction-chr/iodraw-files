@@ -1451,40 +1451,40 @@
           <mxGeometry x="516" y="710" width="57" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-400" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="240" width="150" height="135" as="geometry" />
+          <mxGeometry x="500" y="240" width="170" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-392" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry width="150" height="135" as="geometry" />
+          <mxGeometry width="170" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-43" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="82.5" y="94.99999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="93.5" y="94.99999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-44" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="82.5" y="72.49999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="93.5" y="72.49999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-45" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="82.5" y="49.999999999999886" width="30" height="30" as="geometry" />
+          <mxGeometry x="93.5" y="49.999999999999886" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-46" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="60" y="94.99999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="68" y="94.99999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-47" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF3333;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="60" y="72.49999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="68" y="72.49999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-48" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="60" y="49.999999999999886" width="30" height="30" as="geometry" />
+          <mxGeometry x="68" y="49.999999999999886" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-49" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="37.5" y="94.99999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="42.5" y="94.99999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-50" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="37.5" y="72.49999999999989" width="30" height="30" as="geometry" />
+          <mxGeometry x="42.5" y="72.49999999999989" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-51" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="37.5" y="49.999999999999886" width="30" height="30" as="geometry" />
+          <mxGeometry x="42.5" y="49.999999999999886" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-351" value="3×3&lt;div&gt;&amp;nbsp;(9 tokens)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;container=0;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-400">
-          <mxGeometry x="15" y="12" width="120" height="28" as="geometry" />
+          <mxGeometry x="17" y="12" width="136" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-401" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="130" width="130" height="89.5" as="geometry" />
