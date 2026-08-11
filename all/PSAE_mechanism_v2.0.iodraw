@@ -1067,10 +1067,10 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-287" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;64→64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="874.5" y="717.3100000000001" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-288" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;25×64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-288" value="V&lt;br style=&quot;font-size: 11px;&quot;&gt;9×64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="955.5" y="717.3100000000001" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-289" value="QKᵀ / √d&lt;br style=&quot;font-size: 11px;&quot;&gt;1×25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-289" value="QKᵀ / √d&lt;br style=&quot;font-size: 11px;&quot;&gt;1×9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="664.0600000000001" width="50" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-290" value="Quality MLP&lt;br style=&quot;font-size: 11px;&quot;&gt;per token&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
