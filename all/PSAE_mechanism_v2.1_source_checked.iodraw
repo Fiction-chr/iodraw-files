@@ -307,7 +307,7 @@
           <mxGeometry x="1338" y="660" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v101" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" parent="1" vertex="1">
-          <mxGeometry x="850" y="705" width="700" height="300" as="geometry" />
+          <mxGeometry x="855" y="755" width="700" height="300" as="geometry" />
         </mxCell>
         <mxCell id="v102" value="5×5  (25 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#9673A6;fontStyle=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="865" y="715" width="120" height="28" as="geometry" />
