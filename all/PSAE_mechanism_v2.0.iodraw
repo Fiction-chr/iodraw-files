@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-317" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="648" y="560" width="700" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="v2" value="PSAE mechanism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontColor=#111111;fontStyle=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="800" y="10" width="1000" height="55" as="geometry" />
         </mxCell>
@@ -1490,9 +1493,6 @@
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-316" value="c₅ = A·V = Σⱼ αⱼ Vⱼ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1126.5" y="749.65" width="102" height="12.69" as="geometry" />
-        </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-317" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
-          <mxGeometry x="2535" y="370" width="700" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
