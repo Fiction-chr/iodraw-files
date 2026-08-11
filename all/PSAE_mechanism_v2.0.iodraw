@@ -1282,7 +1282,7 @@
           <mxGeometry x="700" y="210.81" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-317" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;dashed=1;dashPattern=6 4;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry width="490" height="200" as="geometry" />
+          <mxGeometry width="490" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-281" value="h_c&lt;br style=&quot;font-size: 11px;&quot;&gt;R⁶⁴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=1.4;fontSize=11;verticalAlign=middle;align=center;" vertex="1" parent="UYYb-bv9wdLKh2wHNotc-332">
           <mxGeometry x="12.5" y="54.030000000000086" width="45" height="32" as="geometry" />
@@ -1412,10 +1412,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-316" value="c₅ = A·V = Σⱼ αⱼ Vⱼ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#111111;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry x="356.5" y="179.64999999999998" width="102" height="12.69" as="geometry" />
+          <mxGeometry x="354.5" y="171.98999999999998" width="102" height="12.69" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-325" value="3×3  (9 tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#6C8EBF;fontStyle=1;" vertex="1" connectable="0" parent="UYYb-bv9wdLKh2wHNotc-332">
-          <mxGeometry y="164.33999999999992" width="120" height="28" as="geometry" />
+          <mxGeometry x="-5.5" y="156.67999999999992" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-335" value="Shared scale-gate MLP&lt;br&gt;[ h_c, c_s, |h_c−c_s| ]&lt;br&gt;→ scalar score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=13;verticalAlign=middle;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1901" y="1410" width="250" height="90" as="geometry" />
