@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="1136" dy="751" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="432" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1495,9 +1495,6 @@
         <mxCell id="vF7u0R-aOd18F0KLFRWj-456" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#E69F00;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-383" target="vF7u0R-aOd18F0KLFRWj-399">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF7u0R-aOd18F0KLFRWj-457" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#E69F00;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-383" target="vF7u0R-aOd18F0KLFRWj-400">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-458" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#70AD47;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-408" target="vF7u0R-aOd18F0KLFRWj-422">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1559,7 +1556,7 @@
           <mxGeometry x="1235" y="945" width="150" height="34" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-580" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="355" y="725" width="375" height="160" as="geometry" />
+          <mxGeometry x="71" y="594" width="375" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-371" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E69F00;strokeWidth=1.4;fontSize=13;fontFamily=Arial;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" vertex="1" parent="vF7u0R-aOd18F0KLFRWj-580">
           <mxGeometry width="375" height="160" as="geometry" />
