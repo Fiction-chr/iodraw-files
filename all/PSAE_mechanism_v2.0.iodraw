@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="654" dy="432" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="379" dy="250" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1489,12 +1489,6 @@
         <mxCell id="vF7u0R-aOd18F0KLFRWj-451" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#222222;strokeWidth=1.4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-446" target="vF7u0R-aOd18F0KLFRWj-447">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF7u0R-aOd18F0KLFRWj-455" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#E69F00;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-383" target="vF7u0R-aOd18F0KLFRWj-398">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vF7u0R-aOd18F0KLFRWj-456" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#E69F00;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-383" target="vF7u0R-aOd18F0KLFRWj-399">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-458" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#70AD47;strokeWidth=1.4;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-408" target="vF7u0R-aOd18F0KLFRWj-422">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1583,7 +1577,7 @@
           <mxGeometry x="95.1923076923077" y="109.33333333333333" width="72.11538461538461" height="23.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-379" value="Shared&lt;br&gt;Scale Gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=14;fontFamily=Arial;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="vF7u0R-aOd18F0KLFRWj-580">
-          <mxGeometry x="196.15384615384613" y="56" width="69.23076923076923" height="47.99999999999999" as="geometry" />
+          <mxGeometry x="204.00384615384613" y="44.269999999999996" width="69.23076923076923" height="47.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-380" value="s₁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" vertex="1" parent="vF7u0R-aOd18F0KLFRWj-580">
           <mxGeometry x="285.5769230769231" y="37.33333333333333" width="28.846153846153843" height="20.266666666666662" as="geometry" />
