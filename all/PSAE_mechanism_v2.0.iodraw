@@ -1247,7 +1247,7 @@
           <mxGeometry x="60" y="662.5" width="32.58620689655172" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-120" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Shared Scale Gate&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.5;fontSize=16;align=center;verticalAlign=middle;fontStyle=1;container=0;arcSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="610" width="100" height="30" as="geometry">
+          <mxGeometry x="135" y="605" width="100" height="30" as="geometry">
             <mxRectangle x="165" y="660" width="130" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
