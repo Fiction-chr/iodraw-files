@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="251" dy="166" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="360" dy="238" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1556,7 +1556,7 @@
           <mxGeometry x="106.4423076923077" y="687.0033333333333" width="72.11538461538461" height="23.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-379" value="Shared&lt;br&gt;Scale Gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=14;fontFamily=Arial;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="212.50384615384613" y="616.27" width="69.23076923076923" height="47.99999999999999" as="geometry" />
+          <mxGeometry x="212.50384615384613" y="614.9399999999999" width="69.23076923076923" height="47.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-380" value="s₁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="315.5769230769231" y="596.0033333333333" width="28.846153846153843" height="20.266666666666662" as="geometry" />
@@ -1583,15 +1583,17 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="185" y="628" />
-              <mxPoint x="185" y="640" />
+              <mxPoint x="185" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF7u0R-aOd18F0KLFRWj-388" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#222222;strokeWidth=1.4;" edge="1" parent="1" source="vF7u0R-aOd18F0KLFRWj-377" target="vF7u0R-aOd18F0KLFRWj-379">
+        <mxCell id="vF7u0R-aOd18F0KLFRWj-388" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#222222;strokeWidth=1.4;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178.55769230769232" y="667.5116279069767" as="sourcePoint" />
+            <mxPoint x="212.5038461538461" y="645.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="185" y="663" />
-              <mxPoint x="185" y="640" />
+              <mxPoint x="185" y="668" />
+              <mxPoint x="185" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
