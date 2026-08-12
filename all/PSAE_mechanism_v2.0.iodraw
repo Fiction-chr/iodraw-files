@@ -1556,7 +1556,7 @@
           <mxGeometry x="106.4423076923077" y="687.0033333333333" width="72.11538461538461" height="23.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-379" value="Shared&lt;br&gt;Scale Gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=14;fontFamily=Arial;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="217.88384615384612" y="623" width="69.23076923076923" height="47.99999999999999" as="geometry" />
+          <mxGeometry x="216.88384615384612" y="616.27" width="69.23076923076923" height="47.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-380" value="s₁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="315.5769230769231" y="596.0033333333333" width="28.846153846153843" height="20.266666666666662" as="geometry" />
