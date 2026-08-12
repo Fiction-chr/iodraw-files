@@ -677,7 +677,7 @@
         <mxCell id="UYYb-bv9wdLKh2wHNotc-234" value="Shared MLP&lt;br&gt;10 → 32 → 64&lt;br&gt;ReLU + LayerNorm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=15;verticalAlign=middle;align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="175" width="102.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="UYYb-bv9wdLKh2wHNotc-235" value="shared over&amp;nbsp;&lt;div&gt;all 25 pixels&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;" parent="1" vertex="1" connectable="0">
+        <mxCell id="UYYb-bv9wdLKh2wHNotc-235" value="shared over&amp;nbsp;&lt;div&gt;all 25 pixels&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="256.25" y="328.67" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UYYb-bv9wdLKh2wHNotc-236" value="Encoded pixel tokens&lt;br&gt;25 × 64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;fontStyle=1;" parent="1" vertex="1">
