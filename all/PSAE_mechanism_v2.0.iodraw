@@ -1044,7 +1044,7 @@
           <mxGeometry x="2460" y="1415" width="365" height="28" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E69F00;strokeWidth=1.5;fontSize=14;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="1540" width="620" height="260" as="geometry" />
+          <mxGeometry x="1580" y="1545" width="595" height="255" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-116" value="Shared Scale Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#C66A00;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1695" y="1555" width="340" height="35" as="geometry" />
