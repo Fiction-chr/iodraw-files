@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="58141b0c8bb7448382da" name="PSAE mechanism">
-    <mxGraphModel dx="986" dy="716" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="290" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1433,22 +1433,22 @@
           <mxGeometry x="2310" y="850" width="330" height="300" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-442" value="Residual + LayerNorm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontFamily=Arial;fontColor=#8064A2;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1355" y="570" width="250" height="30" as="geometry" />
+          <mxGeometry x="1105" y="530" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-443" value="h_c&lt;br&gt;R⁶⁴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="635" width="70" height="50" as="geometry" />
+          <mxGeometry x="1110" y="595" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-444" value="u&lt;br&gt;R⁶⁴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#5B9BD5;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="750" width="70" height="50" as="geometry" />
+          <mxGeometry x="1110" y="710" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-445" value="+" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="695" width="35" height="35" as="geometry" />
+          <mxGeometry x="1220" y="655" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-446" value="LayerNorm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4ECF7;strokeColor=#9B59B6;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="685" width="85" height="50" as="geometry" />
+          <mxGeometry x="1280" y="645" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-447" value="x_t&lt;br&gt;R⁶⁴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#5B9BD5;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="760" width="85" height="50" as="geometry" />
+          <mxGeometry x="1280" y="720" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-448" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;endArrow=block;strokeColor=#222222;strokeWidth=1.4;" parent="1" source="vF7u0R-aOd18F0KLFRWj-443" target="vF7u0R-aOd18F0KLFRWj-445" edge="1">
           <mxGeometry relative="1" as="geometry" />
