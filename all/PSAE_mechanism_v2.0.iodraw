@@ -1403,19 +1403,19 @@
           <mxGeometry x="1143" y="560" width="180" height="28" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-429" value="h_c&lt;br&gt;R⁶⁴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="625" width="40" height="30" as="geometry" />
+          <mxGeometry x="892" y="572.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-430" value="f_p&lt;br&gt;R⁶⁴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#5B9BD5;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1068" y="730" width="40" height="30" as="geometry" />
+          <mxGeometry x="890" y="677.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-431" value="Fusion Gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=12;fontFamily=Arial;align=center;verticalAlign=middle;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="675" width="90" height="30" as="geometry" />
+          <mxGeometry x="982" y="622.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-432" value="g" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.4;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="675" width="30" height="30" as="geometry" />
+          <mxGeometry x="1102" y="622.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-433" value="×" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="1002" y="677.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF7u0R-aOd18F0KLFRWj-434" value="u=g⊙f_p" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#5B9BD5;strokeWidth=1.4;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1690" y="783" width="80" height="45" as="geometry" />
