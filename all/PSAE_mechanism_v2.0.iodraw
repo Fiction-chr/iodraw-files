@@ -2863,13 +2863,13 @@
           <mxGeometry x="2010" y="620" width="630" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Cr1nWr1_xlkkP-Du-2K9-154" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1.3;fontSize=13;fontFamily=Arial;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="585" width="900" height="120" as="geometry" />
+          <mxGeometry x="2740" y="800" width="900" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Cr1nWr1_xlkkP-Du-2K9-155" value="模块作用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontFamily=Arial;fontColor=#111111;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2740" y="600" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cr1nWr1_xlkkP-Du-2K9-156" value="• 多尺度上下文校准: 不同邻域尺度捕捉多粒度上下文, 并通过质量感知机制自适应校准。&lt;br&gt;• 质量门控与尺度融合: 评估各尺度上下文质量, 动态加权融合。&lt;br&gt;• 上下文投影与门控: 投影增强与门控注入, 提升泛化能力。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Arial;fontColor=#111111;" vertex="1" parent="1">
-          <mxGeometry x="2745" y="627" width="820" height="60" as="geometry" />
+          <mxGeometry x="2757" y="840" width="820" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
