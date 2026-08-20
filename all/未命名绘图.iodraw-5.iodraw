@@ -58,7 +58,7 @@
         <mxCell id="U9DStPo6k9R8B-iojKhy-20" value="无效值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9DStPo6k9R8B-iojKhy-21" value="255&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="U9DStPo6k9R8B-iojKhy-21" value="255" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="721" y="141" width="19" height="13" as="geometry" />
         </mxCell>
       </root>
