@@ -34,8 +34,8 @@
         <mxCell id="U9DStPo6k9R8B-iojKhy-12" value="低风险" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="348" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9DStPo6k9R8B-iojKhy-13" value="低风险" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="349" y="106" width="60" height="30" as="geometry" />
+        <mxCell id="U9DStPo6k9R8B-iojKhy-13" value="中风险" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="503" y="105" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
