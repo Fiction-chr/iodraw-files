@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="6905731eaa7f4391" name="LSTM_Cell_Diagram">
-    <mxGraphModel dx="746" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="299" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,6 +362,12 @@
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-91" value="&lt;i&gt;h&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt; = &lt;i&gt;o&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt; ⊙ tanh(&lt;i&gt;C&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=17;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="2615" y="845" width="300" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="0thfnko61YYFG5Yv7_Bb-93" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="550" as="sourcePoint" />
+            <mxPoint x="2000" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
