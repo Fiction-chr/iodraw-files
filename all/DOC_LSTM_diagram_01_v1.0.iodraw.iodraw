@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="6905731eaa7f4391" name="LSTM_Cell_Diagram">
-    <mxGraphModel dx="859" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,9 +338,6 @@
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-83" value="&lt;i&gt;z&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt; = [&lt;i&gt;h&lt;/i&gt;&lt;sub&gt;t−1&lt;/sub&gt;, &lt;i&gt;x&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt;]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="2220" y="560" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0thfnko61YYFG5Yv7_Bb-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;fillOpacity=55;strokeColor=#b3b3b3;strokeWidth=1;dashed=1;dashPattern=5 5;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="740" width="1110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-85" value="LSTM equations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontColor=#222222;fontFamily=Times New Roman;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1865" y="748" width="160" height="24" as="geometry" />
