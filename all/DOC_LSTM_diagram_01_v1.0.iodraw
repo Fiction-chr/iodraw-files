@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="6905731eaa7f4391" name="LSTM_Cell_Diagram">
-    <mxGraphModel dx="1418" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="810" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="460" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="280" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;tanh&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="0thfnko61YYFG5Yv7_Bb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709.71" y="580" as="sourcePoint" />
-            <mxPoint x="709.71" y="520" as="targetPoint" />
+            <mxPoint x="679.71" y="580" as="sourcePoint" />
+            <mxPoint x="679.71" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
