@@ -38,7 +38,7 @@
           <mxGeometry x="280" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;tanh&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="470" width="120" height="50" as="geometry" />
+          <mxGeometry x="790" y="470" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="0thfnko61YYFG5Yv7_Bb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,7 +95,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;tanh&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="310" width="120" height="50" as="geometry" />
+          <mxGeometry x="1110" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0thfnko61YYFG5Yv7_Bb-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="350" as="sourcePoint" />
+            <mxPoint x="850" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
