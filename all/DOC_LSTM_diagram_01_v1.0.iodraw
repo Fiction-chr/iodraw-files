@@ -19,7 +19,7 @@
         <mxCell id="0thfnko61YYFG5Yv7_Bb-6" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="250" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0thfnko61YYFG5Yv7_Bb-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0thfnko61YYFG5Yv7_Bb-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;sigmoid&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
