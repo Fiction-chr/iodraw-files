@@ -2917,6 +2917,9 @@
         <mxCell id="HqvwamoUq9wGG1mAL6wY-41" value="&lt;b&gt;Value projection&lt;/b&gt;&lt;br&gt;c₁ = V₁(h꜀)" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=21;fontColor=#283747;spacing=10;align=left;spacing=0;fontColor=#283747;fontStyle=0;" vertex="1" parent="HqvwamoUq9wGG1mAL6wY-38">
           <mxGeometry x="115" y="35" width="215" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="HqvwamoUq9wGG1mAL6wY-174" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF3333;container=0;" vertex="1" parent="HqvwamoUq9wGG1mAL6wY-38">
+          <mxGeometry x="42.5" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="HqvwamoUq9wGG1mAL6wY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#82A969;strokeWidth=1.7;exitX=1;exitY=0.5;entryX=0;entryY=0.5;dashed=0;" edge="1" parent="1" source="HqvwamoUq9wGG1mAL6wY-33" target="HqvwamoUq9wGG1mAL6wY-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3274,9 +3277,6 @@
         </mxCell>
         <mxCell id="HqvwamoUq9wGG1mAL6wY-173" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;strokeWidth=1.4;fontSize=14;verticalAlign=middle;align=center;container=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="3415" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HqvwamoUq9wGG1mAL6wY-174" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF3333;container=0;" vertex="1" parent="1">
-          <mxGeometry x="565.5" y="3435" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HqvwamoUq9wGG1mAL6wY-175" value="1×1&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#2E7D32;fontStyle=1;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550.5" y="3415" width="60" height="20" as="geometry" />
