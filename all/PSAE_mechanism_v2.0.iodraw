@@ -3436,7 +3436,7 @@
           <mxGeometry x="1558" y="3845" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HqvwamoUq9wGG1mAL6wY-83" value="&lt;b&gt;Center-guided&lt;br&gt;quality attention&lt;/b&gt;&lt;br&gt;c₅ ∈ ℝ⁶⁴" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=21;fontColor=#283747;spacing=10;align=left;spacing=0;fontColor=#283747;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="3880" width="215" height="85" as="geometry" />
+          <mxGeometry x="1674" y="3877.5" width="185" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HqvwamoUq9wGG1mAL6wY-250" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1555" y="3875" width="88" height="97.66" as="geometry" />
