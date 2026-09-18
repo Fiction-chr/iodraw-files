@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0thfnko61YYFG5Yv7_Bb-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f2f7ee;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="180" width="910" height="440" as="geometry" />
+          <mxGeometry x="1970" y="180" width="845" height="440" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-45" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="2080" y="230" width="60" height="60" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="1890" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-72" value="&lt;i&gt;C&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="245" width="60" height="30" as="geometry" />
+          <mxGeometry x="2964" y="247" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-73" value="&lt;i&gt;h&lt;/i&gt;&lt;sub&gt;t−1&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="1890" y="540" width="80" height="30" as="geometry" />
