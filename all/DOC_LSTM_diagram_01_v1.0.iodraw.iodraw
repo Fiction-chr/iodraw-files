@@ -210,7 +210,7 @@
           <mxGeometry x="15" y="10" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dAZxA5QilXIU9jjD7RU_-46" value="&lt;b&gt;Value projection&lt;/b&gt;&lt;br&gt;c₁ = V₁(h꜀)" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=21;fontColor=#283747;spacing=10;align=left;spacing=0;fontColor=#283747;fontStyle=0;" vertex="1" parent="dAZxA5QilXIU9jjD7RU_-44">
-          <mxGeometry x="130" y="35" width="175" height="85" as="geometry" />
+          <mxGeometry x="159" y="70" width="175" height="85" as="geometry" />
         </mxCell>
         <mxCell id="dAZxA5QilXIU9jjD7RU_-47" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FF3333;container=0;" vertex="1" parent="dAZxA5QilXIU9jjD7RU_-44">
           <mxGeometry x="42.5" y="70" width="30" height="30" as="geometry" />
