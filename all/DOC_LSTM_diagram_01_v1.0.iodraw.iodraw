@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="6905731eaa7f4391" name="LSTM_Cell_Diagram">
-    <mxGraphModel dx="1914" dy="1134" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="1928" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
           <mxGeometry x="1640" y="150" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="dAZxA5QilXIU9jjD7RU_-44" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#F2F7EE;strokeColor=#82A969;strokeWidth=1.5;fontFamily=Arial;fontSize=21;fontColor=#283747;spacing=10;container=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="3520" width="340" height="135" as="geometry" />
+          <mxGeometry x="1723" y="2258" width="340" height="135" as="geometry" />
         </mxCell>
         <mxCell id="dAZxA5QilXIU9jjD7RU_-45" value="1 × 1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#283747;spacing=10;align=center;spacing=0;fontColor=#82A969;fontStyle=1;" vertex="1" parent="dAZxA5QilXIU9jjD7RU_-44">
           <mxGeometry x="15" y="10" width="85" height="25" as="geometry" />
