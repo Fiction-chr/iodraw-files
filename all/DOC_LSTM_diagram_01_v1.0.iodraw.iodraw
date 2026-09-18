@@ -89,7 +89,7 @@
         <mxCell id="0thfnko61YYFG5Yv7_Bb-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0thfnko61YYFG5Yv7_Bb-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2150" y="270" as="sourcePoint" />
-            <mxPoint x="2940" y="260" as="targetPoint" />
+            <mxPoint x="2868" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-63" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;tanh&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f1fa;strokeColor=#ad8bc3;" parent="1" vertex="1">
@@ -156,7 +156,7 @@
           <mxGeometry x="1890" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-72" value="&lt;i&gt;C&lt;/i&gt;&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" parent="1" vertex="1">
-          <mxGeometry x="2964" y="247" width="60" height="30" as="geometry" />
+          <mxGeometry x="2867" y="243" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0thfnko61YYFG5Yv7_Bb-73" value="&lt;i&gt;h&lt;/i&gt;&lt;sub&gt;t−1&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#222222;fontFamily=Times New Roman;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="1890" y="540" width="80" height="30" as="geometry" />
